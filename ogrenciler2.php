@@ -41,7 +41,8 @@ $ogrencisor=ogr_xml_okuma();
     }
     
     ?>
-  <h2>KAYITLI ÖĞRENCİ LİSTESİ test</h2>
+  <h2>KAYITLI ÖĞRENCİ LİSTESİ deneme</h2>
+
   <p>Bu sayfada aşagıdaki gibi daha önceden eklenen öğrenciler aşağıdaki gibi listelenmektedir.Listenin üst tarafında bulunan mavi ekle butonu ile öğrenci ekleme işlemi ,listenin içerisinde bulunan her öğrenciye karşılık gelen turuncu güncelle butonu ile güncelleme işlemi ve kırmızı sil butonu ile silme işlemi gerçekleştirilir.</p>            
   <a class='btn btn-primary btn-sm' onClick='ogr_ekle()'>Ekle</a>
   <a href ='./ogrenciler_excel.php' class='btn btn-success btn-sm'>Excel Export</a>
